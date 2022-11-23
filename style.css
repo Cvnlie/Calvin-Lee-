@@ -1,0 +1,21 @@
+h2{
+    color: lightseagreen;
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial;
+}
+p.apa{
+    font-style : italic;
+    font-family: Monospace;
+    color : red;
+    font-weight : bold;
+    text-indent: 20pxpx;
+}
+p.iya{
+    color : blue;
+    font-family: arial;
+    font-weight: bold;
+    text-indent: 20px;
+    font-family: Monospace;
+    
+}
